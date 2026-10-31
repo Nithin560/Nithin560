@@ -55,7 +55,7 @@ An AI-powered job intelligence platform designed to aggregate and organize job o
 - Developed a React and TypeScript dashboard for job discovery and insights.
 
 🔗 **Live Demo:** https://vercel.com/nithin560s-projects/jobnexa-ai-job-intelligence
-https://vercel.com/nithin560s-projects/smart-diet-ai-powered-fitness-platform-v2
+
 
 💻 **Repository:** https://github.com/Nithin560/jobnexa-ai-job-intelligence
 
