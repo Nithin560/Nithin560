@@ -54,7 +54,9 @@ An AI-powered job intelligence platform designed to aggregate and organize job o
 - Implemented backend APIs using **FastAPI and PostgreSQL**.
 - Developed a React and TypeScript dashboard for job discovery and insights.
 
-🔗 **Live Demo:** jobnexa-ai-job-intelligence.vercel.app
+🔗 **Live Demo:** https://vercel.com/nithin560s-projects/jobnexa-ai-job-intelligence
+https://vercel.com/nithin560s-projects/smart-diet-ai-powered-fitness-platform-v2
+
 💻 **Repository:** https://github.com/Nithin560/jobnexa-ai-job-intelligence
 
 ---
@@ -70,7 +72,8 @@ A research insights portal designed to support faculty and HOD users with resear
 - Implemented role-based access for **Faculty, HOD, and Admin** users.
 - Designed MongoDB schemas and real-time status tracking.
 
-🔗 **Live Demo:** intellica-intelligent-research-insi.vercel.app
+🔗 **Live Demo:** https://vercel.com/nithin560s-projects/intellica-intelligent-research-insights-portal
+
  💻**Repository:** https://github.com/Nithin560/Intellica-intelligent-Research-insights-portal
 
 ---
@@ -86,7 +89,8 @@ An AI-powered platform focused on generating personalized meal plans.
 - Integrated AI-powered functionality for personalized meal recommendations.
 - Implemented authentication and database integration.
 
-🔗 **Live Demo:** smart-diet-ai-powered-fitness-platf-mu.vercel.app
+🔗 **Live Demo:** https://vercel.com/nithin560s-projects/smart-diet-ai-powered-fitness-platform-v2
+
 💻 **Repository:** https://github.com/Nithin560/Smart_Diet_AI_Powered_fitness_Platform
 
 ---
