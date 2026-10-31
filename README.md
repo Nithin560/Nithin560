@@ -1,32 +1,46 @@
-## Hi 👋, I'm Nithin Vandana
+<div align="center">
 
-### Software Developer | Full-Stack Developer | AI Enthusiast
+# 👋 Hey, I'm Nithin Vandana
 
-I am a Computer Science graduate passionate about building reliable, scalable, and real-world applications. I enjoy working across full-stack development, backend APIs, and AI-powered solutions.
+### Software Developer • Full-Stack Builder • AI Enthusiast
 
-- 🔭 Currently focused on **Software Development and AI Engineering**
-- 🌱 Building projects using **Python, FastAPI, React.js, TypeScript, and SQL**
-- 💡 Interested in **Backend Development, Full-Stack Applications, APIs, and AI/LLM Integration**
-- 🎯 Open to entry-level **Software Development Engineer (SDE)** and **AI Engineering** opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Turning+ideas+into+real-world+products;Exploring+AI+and+LLM-powered+solutions" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> **Building at the intersection of Software Engineering and AI.**
+
+🚀 **Full-Stack Development** — Building modern web applications and backend APIs  
+🧠 **AI Engineering** — Exploring LLM integration and AI-powered products  
+⚙️ **Backend Focus** — Designing reliable APIs, databases, and application workflows  
+🎯 **Career Goal** — Seeking entry-level SDE or AI Engineering opportunities  
+
+### ⚡ What I Work With
+
+`Python` • `FastAPI` • `React.js` • `TypeScript` • `SQL` • `Docker` • `AI/LLMs`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frontend & Backend**
+### 🎨 Frontend & Backend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
 
-**Databases & Tools**
+### 🗄️ Databases & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -34,7 +48,7 @@ I am a Computer Science graduate passionate about building reliable, scalable, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**AI & Cloud**
+### 🤖 AI & Development Environment
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -50,12 +64,11 @@ An AI-powered job intelligence platform designed to aggregate and organize job o
 **Tech Stack:** React, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL, SQLAlchemy, JWT, Docker, AsyncIO, HTTPX
 
 **Highlights:**
-- Built an automated pipeline to process job listings from **120+ tech portals**.
-- Implemented backend APIs using **FastAPI and PostgreSQL**.
-- Developed a React and TypeScript dashboard for job discovery and insights.
+- ⚡ Built an automated pipeline to process job listings from **120+ tech portals**.
+- 🔧 Implemented backend APIs using **FastAPI and PostgreSQL**.
+- 📊 Developed a React and TypeScript dashboard for job discovery and insights.
 
 🔗 **Live Demo:** https://vercel.com/nithin560s-projects/jobnexa-ai-job-intelligence
-
 
 💻 **Repository:** https://github.com/Nithin560/jobnexa-ai-job-intelligence
 
@@ -65,12 +78,11 @@ An AI-powered job intelligence platform designed to aggregate and organize job o
 
 A research insights portal designed to support faculty and HOD users with research data and approval workflows.
 
-**Tech Stack:** React.js, Node.js, MongoDB, REST APIs, Docker, Git
-
 **Highlights:**
-- Built research workflows across multiple research categories.
-- Implemented role-based access for **Faculty, HOD, and Admin** users.
-- Designed MongoDB schemas and real-time status tracking.
+- 📚 Built research workflows across multiple research categories.
+- 🔐 Implemented role-based access for **Faculty, HOD, and Admin** users.
+- 📈 Designed MongoDB schemas and real-time status tracking.
+**Tech Stack:** React.js, Node.js, MongoDB, REST APIs, Docker, Git
 
 🔗 **Live Demo:** https://vercel.com/nithin560s-projects/intellica-intelligent-research-insights-portal
 
@@ -85,9 +97,9 @@ An AI-powered platform focused on generating personalized meal plans.
 **Tech Stack:** React.js, Python, FastAPI, MongoDB, JWT, Tailwind CSS, Google Gemini, Docker
 
 **Highlights:**
-- Built a full-stack application using React and FastAPI.
-- Integrated AI-powered functionality for personalized meal recommendations.
-- Implemented authentication and database integration.
+- 💻 Built a full-stack application using React and FastAPI.
+- 🤖 Integrated AI-powered functionality for personalized meal recommendations.
+- 🔒 Implemented authentication and database integration.
 
 🔗 **Live Demo:** https://vercel.com/nithin560s-projects/smart-diet-ai-powered-fitness-platform-v2
 
@@ -104,13 +116,15 @@ An AI-powered platform focused on generating personalized meal plans.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithin560&show_icons=true&hide_border=true" alt="Nithin's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin560&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Nithin560&show_icons=true&theme=transparent&hide_border=true" alt="Nithin's GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin560&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
