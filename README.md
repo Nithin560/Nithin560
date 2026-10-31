@@ -13,6 +13,19 @@
 ## 👨‍💻 About Me
 
 > **Building at the intersection of Software Engineering and AI.**
+<div align="center">
+
+🐍 **Python**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+⚡ **FastAPI**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🗄️ **SQL & Databases**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🌐 **Web Applications**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🤖 **AI & LLMs**
+
+</div>
 
 🚀 **Full-Stack Development** — Building modern web applications and backend APIs  
 🧠 **AI Engineering** — Exploring LLM integration and AI-powered products  
